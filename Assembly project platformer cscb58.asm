@@ -3,7 +3,7 @@
 # CSCB58 Winter 2025 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Ajay Narayanan Anantha Subramanian, 1010130537, anant115, ajay.ananthasubramaniann@mail.utoronto.ca
+# Student: Ajay Narayanan Anantha Subramanian
 # # Bitmap Display Configuration:
 # - Unit width in pixels: 4 (update this as needed)
 # - Unit height in pixels: 4 (update this as needed)
